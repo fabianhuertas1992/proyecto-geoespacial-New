@@ -1,0 +1,29 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Archivos de configuración y específicos del OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archivos de salida/datos grandes
+*.tif
+*.tiff
+/datos_descargados/ # Puedes crear una carpeta como esta y configurarla en SENTINEL_DIR si ejecutas localmente
+
+# Archivos sensibles (si los hubiera)
+# .env
+# credentials.json

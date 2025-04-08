@@ -1,0 +1,11 @@
+pystac-client
+planetary-computer
+geopandas
+shapely
+rioxarray
+xarray
+pyproj
+requests
+numpy
+# Considerar añadir versiones específicas si encuentras problemas de compatibilidad
+# Ejemplo: geopandas==1.0.1
