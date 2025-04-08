@@ -31,7 +31,7 @@ Dentro del script `Bajar_Sentinel.ipynb`, puedes ajustar:
 
 1.  Clona este repositorio:
     ```bash
-    git clone https://github.com/TU_USUARIO/proyecto-geoespacial.git
+    git clone [https://github.com/TU_USUARIO/proyecto-geoespacial.git](https://github.com/fabianhuertas1992/proyecto-geoespacial-New.git)
     cd proyecto-geoespacial
     ```
 2.  (Recomendado) Crea un entorno virtual:
